@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { Mail, Lock, User, ShieldCheck } from "lucide-react";
-import logo from "../assets/logo.png";
-<img src={logo} alt="NagarNetra Logo" className="w-32 h-auto" />
+import logoImage from "../assets/logo.png";
 
 
 import { loginUser, signupUser } from "../firebase/auth";
