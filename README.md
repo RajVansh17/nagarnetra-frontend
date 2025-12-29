@@ -63,7 +63,7 @@ NagarNetra is an AI-driven civic engagement platform that enables citizens to re
 - Node.js / Express
 - Firebase / Firestore
 - REST APIs
-- AI Models (YOLO / Vision Models – roadmap)
+- AI Models (GroundingDINO / Vision Models – roadmap)
 
 ---
 
